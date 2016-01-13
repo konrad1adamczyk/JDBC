@@ -9,7 +9,7 @@ public class JdbcTutor3 {
      * Please rename DB_NAME to your name, for example
      * static final String DB_NAME="JohnDoe";
      */
-    static final String DB_NAME="test";
+    static final String DB_NAME="KonradAdamczyk3";
 
     Connection conn;
 
